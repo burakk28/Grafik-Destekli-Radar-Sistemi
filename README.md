@@ -1,1 +1,0 @@
-# Grafik-Destekli-Radar-Sistemi
